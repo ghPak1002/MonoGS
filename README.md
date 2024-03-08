@@ -48,6 +48,7 @@ The method demonstrates the first monocular SLAM solely based on 3D Gaussian Spl
 ```
 git clone https://github.com/muskie82/MonoGS.git --recursive
 cd MonoGS
+git submodule update --init --recursive
 ```
 Setup the environment.
 
